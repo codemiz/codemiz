@@ -3,11 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/>
   <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge" alt="twitter badge"/>
-  <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/>
+<!--   <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram badge"/> -->
   <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge" alt="github badge"/>
-  <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="facebook badge"/>
+<!--   <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="facebook badge"/> -->
   </div>
 ### Hi there 👋
 
