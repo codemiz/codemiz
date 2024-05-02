@@ -9,8 +9,14 @@
   <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge" alt="github badge"/>
 <!--   <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="facebook badge"/> -->
   </div>
+  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=codemiz&style=flat-square&color=blue" alt="profile views" />
-### Hi there 👋
+    
+  </div>
+<h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **codemiz/codemiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
