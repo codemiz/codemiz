@@ -31,9 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 I’m currently learning Next js and Typescript.
 - 👯 I’m looking to collaborate on full stack projects specially MERN stack.
 - 💬 Ask me about MERN stack projects, Next js and more.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Enzo-black?style=flat&logo=x&logoColor=white)]([your-linkedin-url](https://twitter.com/TheDevEnzo))
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: [![twitter Badge](https://img.shields.io/badge/-Enzo-black?style=flat&logo=x&logoColor=white)]([your-linkedin-url](https://twitter.com/TheDevEnzo))
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am night owl.
 
-
-- 🤔 I’m looking for help with ...
