@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m currently working as a freelance full stack engineer and contributing to open source projects.
 - 🌱 I’m currently learning Next js and Typescript.
-- 👯 I’m looking to collaborate on full stack projects specially MERN stack.
+- 👯 I’m looking to collaborate on full stack projects specially MERN stack
 - 💬 Ask me about MERN stack projects, Next js and more.
 - 📫 How to reach me: [![twitter Badge](https://img.shields.io/badge/-Enzo-black?style=flat&logo=x&logoColor=white)]([https://twitter.com/TheDevEnzo](https://twitter.com/TheDevEnzo))
 - 😄 Pronouns: he/him
