@@ -28,7 +28,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 I’m currently working as a freelance full stack engineer and contributing to open source projects
+- 🔭 I’m currently working as a freelance full stack engineer and contributing to open source projects.
 - 🌱 I’m currently learning Next js and Typescript.
 - 👯 I’m looking to collaborate on full stack projects specially MERN stack.
 - 💬 Ask me about MERN stack projects, Next js and more.
