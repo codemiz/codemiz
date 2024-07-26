@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-gh
+
 <div id="badges" align="center">
   <a href="https://twitter.com/TheDevEnzo"> 
         <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge" alt="twitter badge"/>
   </a>
-    
+    g
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/>
   <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge" alt="github badge"/>
   </div>
