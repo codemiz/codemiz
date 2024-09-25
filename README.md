@@ -35,7 +35,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a night owl.
 
-
 ---
 
 ### :hammer_and_wrench: My Stack:
