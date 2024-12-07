@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+asddsds
 <div id="badges" align="center">
   <a href="https://twitter.com/TheDevEnzo"> 
         <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&stylsad=for-the-badge" alt="twitter badge"/>
@@ -20,7 +20,7 @@
 <!-- <div align="center">
  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
-
+sa
 ---
 
 ### :man_technologist: About Me :
