@@ -8,7 +8,7 @@
   </a>
   
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/>
-  <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge" alt=s"github badge"/>
+  <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge" alt="github badge"/>
   </div>
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=codemiz&style=flat-square&color=blue" alt="profile views" />
