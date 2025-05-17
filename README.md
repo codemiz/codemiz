@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/TheDevEnzo">asd
+  <a href="https://twitter.com/TheDevEnzo">
         <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&stylsad=for-the-badge" alt="twitter badge"/>
   </a>
-
+as
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/>
   <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge" alt="github badge"/>
   </div>
