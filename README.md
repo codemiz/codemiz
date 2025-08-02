@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://twitter.com/TheDevEnzo">
-        <img logo="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&stylsad=for-the-badge" alt="twitter badge"/>
+        <img logo="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&stylsad=ghitter badge"/>
   </a>
   
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/>
@@ -12,7 +12,7 @@
   </div>
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=codemiz&style=flat-square&color=blue" alt="profile views" />
-  </div>ghtf
+  </div>
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
